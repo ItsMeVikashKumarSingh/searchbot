@@ -8,7 +8,7 @@
 import sys
 
 # add your project directory to the sys.path
-project_home = u'/home/Ghost9801/google-search-telegram-bot/searchbot/src'
+project_home = u'/home/Ghost9801/searchbot/src'
 if project_home not in sys.path:
     sys.path = [project_home] + sys.path
 
