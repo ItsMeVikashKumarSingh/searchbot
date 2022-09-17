@@ -1,0 +1,10 @@
+{
+	"telegram_bot_token": "5515465063:AAH6vrm-HAnHgdgtcxyzBBYtM16V67XvxVY",
+	"google_api_key": "",
+	"search_engine_id": "d01693ee2a7ee440f",
+	"allow_only_users": [AIzaSyAe8YRZZTU0C52MeojPgtBhQZOj2Yzs4AQ],
+	"paw_app": {
+		"url": "https://Ghost9801.pythonanywhere.com",
+		"webhook_secret": ""
+	}
+}
