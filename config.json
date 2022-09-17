@@ -5,6 +5,6 @@
 	"allow_only_users": [],
 	"paw_app": {
 		"url": "https://Ghost9801.pythonanywhere.com",
-		"webhook_secret": ""
+		"webhook_secret": "uvuviv"
 	}
 }
