@@ -1,8 +1,8 @@
 {
-	"telegram_bot_token": "5515465063:AAH6vrm-HAnHgdgtcxyzBBYtM16V67XvxVY",
-	"google_api_key": "",
+	"telegram_bot_token": "5631269324:AAENoJwNThyOKf8GPVP1o-zoA9bd7Eoyi5U",
+	"google_api_key": "AIzaSyAe8YRZZTU0C52MeojPgtBhQZOj2Yzs4AQ",
 	"search_engine_id": "d01693ee2a7ee440f",
-	"allow_only_users": [AIzaSyAe8YRZZTU0C52MeojPgtBhQZOj2Yzs4AQ],
+	"allow_only_users": [],
 	"paw_app": {
 		"url": "https://Ghost9801.pythonanywhere.com",
 		"webhook_secret": ""
